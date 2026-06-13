@@ -9,7 +9,7 @@ permalink: /terms/
 
 **Pocket Arcade**
 **Effective date:** 14 June 2026
-**Version:** 1.0 (new — there was no published ToS before Build 41)
+**Version:** 1.1 (jurisdiction correction)
 
 ---
 
@@ -199,10 +199,12 @@ including the rights of access, export, and erasure.
 ## 15. Governing law and dispute resolution
 
 These Terms are governed by the laws of the Republic of India, without
-regard to its conflict-of-laws rules. The courts at Mumbai,
-Maharashtra, India have exclusive jurisdiction over any dispute arising
-out of these Terms, subject to your statutory consumer-protection
-rights under DPDP and the Consumer Protection Act 2019.
+regard to its conflict-of-laws rules. Subject to applicable
+consumer-protection laws, the courts of Raipur, Chhattisgarh, India
+shall have exclusive jurisdiction over disputes arising out of or
+relating to these Terms and the use of Pocket Arcade. Your statutory
+consumer-protection rights under DPDP and the Consumer Protection
+Act 2019 remain unaffected.
 
 For users outside India: nothing in this section limits any
 non-waivable consumer right you may have in your home jurisdiction.
