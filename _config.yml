@@ -1,6 +1,6 @@
 title: Pocket Arcade Legal
 description: Privacy Policy, Account Deletion, and Terms of Service for the Pocket Arcade mobile game.
-theme: architect
+theme: jekyll-theme-cayman
 github:
 is_project_page: false
 markdown: kramdown
