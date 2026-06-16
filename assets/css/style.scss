@@ -1,8 +1,10 @@
 
 ---
 ---
-.page-header a,
+@import"{{site.theme}};
+ 
 .page-header .btn
+.page-header a[href*="github"],
 .btn{
   display:none !important;
 }
